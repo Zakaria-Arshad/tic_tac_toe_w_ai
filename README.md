@@ -1,5 +1,5 @@
 # tic_tac_toe_w_ai, written by Zakaria Arshad
-A tic-tac-toe script using an AI algorithm and Object-Oriented Programming in Python
+A tic-tac-toe Python script using an AI algorithm and Object-Oriented Programming 
 Implements Python Classes, Methods, and three difficulty levels.
 The hardest difficulty uses an algorithm to guarentee a win or draw for the computer each time.
 
