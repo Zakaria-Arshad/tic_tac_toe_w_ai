@@ -3,6 +3,12 @@ A tic-tac-toe Python script using an AI algorithm and Object-Oriented Programmin
 Implements Python Classes, Methods, and three difficulty levels.
 The hardest difficulty uses an algorithm to guarentee a win or draw for the computer each time.
 
+Command parameters: start, quit, user, easy, medium, hard
+
+Example: Input start user easy to have player as X, easy difficulty as O. Input start hard user to have hard difficulty as X, user as O. Input start medium medium to have medium difficulty play each other. Input quit to quit.
+
+Type in coordinates on a 3x3 grid. 1 1 will put a symbol in the top right, 2 3 will put a symbol in the second row, third column
+
 Changelog: 
 
 12/27 - Uploaded v2 
